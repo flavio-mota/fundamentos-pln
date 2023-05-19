@@ -3,3 +3,4 @@ Notebook Jupyter elaborado para aula de conceitos introdutórios ao Processament
 Autor: Flávio Belizário da Silva Mota
 
 Data: 24/05/2022
+Atualização: 19/05/2023
